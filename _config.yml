@@ -1,0 +1,8 @@
+title: Citw 160
+description: The git repo for CITW 160 at Lansing Community College
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
