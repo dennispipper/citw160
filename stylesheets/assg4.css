@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #D8EEDD;
+    background: url(../images/bg.png) repeat center top;
+}
+
+body,
+td,
+th {
+    color: #333;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+    color: #005502;
+}
+
+h2 {
+    color: #009A31;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Geneva, sans-serif;
+    margin: 10px;
+}
+
+img {
+    border: 0px;
+    padding: 5px;
+}
+
+p {
+    margin: 11px;
+}
