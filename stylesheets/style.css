@@ -1,0 +1,29 @@
+/*For class demo purposes only.  Do not use this file if you are a student.  The best way to learn the code is to write your own code :-) */
+
+body {
+	font-family: Lucida Sans, Sans-Serif;
+    font-size: 15px;
+    font-weight: 100;
+    background-color: rgba(85,85,85,.3);
+}
+
+h1 {
+    font-family: Georgia, Serif;
+    font-size:32px;
+    border-bottom: 1px solid black;
+    margin-top: 5px; margin-bottom: 5px;
+    text-align: center;
+    font-weight: normal;
+    color: #222;
+}
+h3 {
+    font-family: "Lucida Grande", Tahoma;
+    font-size: 10px;
+    font-weight: lighter;
+    font-variant: normal;
+    text-transform: uppercase;
+    color: #666666;
+        margin-top: 10px;
+    text-align: center!important;
+    letter-spacing: 0.3em;
+}
