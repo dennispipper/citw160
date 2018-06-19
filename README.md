@@ -1,4 +1,3 @@
-##This is the README##
 The files in this repo are for Lansing Community College students enrolled in CITW 160 for the current semester.
 
 The files are for demonstration purposes only and are not to be used for homework.
