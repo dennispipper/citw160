@@ -1,6 +1,7 @@
 /*
 CSS Grid Example
 Created by Dennis Pipper pipperd@lcc.edu
+Modified from MDN Web Docs at https://developer.mozilla.org/en-US/docs/Learn/
 CITW 160 Lansing Community College
 */
     body {
@@ -13,4 +14,7 @@ CITW 160 Lansing Community College
             padding: 10px;
             background-color: rgb(207,232,220);
             border: 2px solid rgb(79,185,227);
+        }
+        .container {
+        
         }
