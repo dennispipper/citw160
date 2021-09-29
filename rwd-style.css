@@ -1,0 +1,45 @@
+/*
+CSS RWD Example
+Created by Dennis Pipper pipperd@lcc.edu
+CITW 160 Lansing Community College
+DEMO purpose only - not to be used for homework
+*/
+
+body {
+  font-family: Geneva, Helvetica, sans-serif;
+  background: #bbdae6;
+  color: #333333;
+}
+h1,
+h2 {
+  font-variant-caps: small-caps;
+  color: #000000;
+}
+nav li {
+  list-style-type: none;
+}
+
+header {
+  grid-area: header;
+}
+main {
+  grid-area: main;
+}
+nav {
+  grid-area: nav;
+}
+aside {
+  grid-area: aside;
+}
+footer {
+  grid-area: footer;
+}
+
+#content {
+  display: grid;
+  max-width: 960px;
+}
+#content > * {
+  background: #3bbced;
+  padding: 30px;
+}
